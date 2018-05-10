@@ -4,3 +4,5 @@ As a part of Data Mining course @ Lehigh University - By Professor Ting Wang (CS
 
 The package includes my code for the best possible prediction of MOOC dropouts based on behavioral features of users
 Raw data is also provided and can be used by permission.
+
+Kaggle competition webpage: https://www.kaggle.com/c/mooc-dropout-prediction-17
